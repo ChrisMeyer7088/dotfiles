@@ -1,5 +1,5 @@
 " ----- Quick customizations -----
-let g:lint_all_the_things = 0 " continuous linting
+let g:lint_all_the_things = 1 " continuous linting
 let g:i_like_trees = 0 " auto-open trees, always
 let g:pretty_icons = 0 " requires https://github.com/ryanoasis/nerd-fonts
 let g:write_on_focusloss = 0 " write when you alt-tab
